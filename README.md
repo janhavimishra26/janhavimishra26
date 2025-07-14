@@ -14,7 +14,7 @@
 ---
 
 ### 📌 Coming Up Next:
-- Uploading Python projects here 🧠  
+- Python Projects Uploaded ✅ 
 - Making my first GitHub contribution! 💚  
 - Building a personal portfolio ✨
 
