@@ -5,22 +5,19 @@
 📦 50/50 Python Programs ✅  
 🚀 Soon starting Python Projects and uploading here!  
 📍 From India 
-📘 Always learning and growing 🌱  
 
 ---
 
 ### 🔧 Tech Stack:
 - Python 🐍
 ---
-
-### 📌 Coming Up Next:
+## about my python work
 - Python Projects Uploaded ✅ 
 - Making my first GitHub contribution! 💚  
 - Building a personal portfolio ✨
 
 ---
 
-> “Consistency is the key to greatness."
 
 <!--
 **janhavimishra26/janhavimishra26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
