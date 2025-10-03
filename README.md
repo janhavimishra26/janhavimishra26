@@ -1,9 +1,8 @@
 # Hi there, I'm Janhavi 👋
 
-🎓 I'm a student passionate about coding and building cool stuff with Python  
-💻 Currently learning Python and Data Structures  
-📦 50/50 Python Programs ✅  
-🚀 Soon starting Python Projects and uploading here!  
+🎓 I'm a student
+💻 Currently learning web development   
+🚀 Soon starting Projects and uploading here!  
 📍 From India 
 
 ---
