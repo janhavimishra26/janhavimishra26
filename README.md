@@ -9,6 +9,7 @@
 
 ### 🔧 Tech Stack:
 - Python 🐍
+- Java
 ---
 ## about my python work
 - Python Projects Uploaded ✅ 
