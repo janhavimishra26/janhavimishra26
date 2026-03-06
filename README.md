@@ -11,12 +11,6 @@
 - Python 🐍
 - Java
 ---
-## about my python work
-- Python Projects Uploaded ✅ 
-- Making my first GitHub contribution! 💚  
-- Building a personal portfolio ✨
-
----
 
 
 <!--
